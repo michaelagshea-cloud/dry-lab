@@ -1,0 +1,16 @@
+metric,value
+assembly_accession,GCA_000766575.2
+assembly_name,ASM76657v2
+strain,BY4741
+fasta_records,397
+total_length_bp,11616647
+computed_contig_or_scaffold_N50_bp,112644
+computed_contig_or_scaffold_L50,31
+min_record_bp,201
+max_record_bp,454112
+gc_percent,37.97
+reported_coverage,209x (from NCBI/SGD metadata; not recomputed from raw reads)
+sequencing_technology,Illumina HiSeq (metadata)
+assembly_level,Scaffold (metadata)
+busco_status,not run in this package; commands included under scripts/run_busco.sh
+long_read_validation_status,not available in current public dataset
