@@ -1,0 +1,27 @@
+Files in final three-lock construct documentation package
+
+1. final_three_lock_full_donor_cassettes_500bpHDR_transcript_orientation.fasta
+   Sequence-only FASTA for all three full 2,299 bp donor cassettes.
+
+2. OCH1_ISC1alpha_500bp_HDR_donor.gb
+3. MNN2_ISC1beta_500bp_HDR_donor.gb
+4. MNN5_ISC1gamma_500bp_HDR_donor.gb
+   GenBank files with annotated homology arms, retained anchors, linker, payload, stop codon, and full chimeric ORF.
+
+5. final_three_lock_feature_table.csv
+   Per-donor feature positions in 1-based donor-coordinate orientation.
+
+6. final_three_lock_genome_mapping_R64-1-1.csv
+   R64-1-1 genome-coordinate mapping table with deleted regions and orientation notes.
+
+7. final_three_lock_screening_and_restriction_summary.csv
+   Corrected synthesis/restriction summary for the current donor cassette sequences.
+
+8. final_three_lock_expected_chimera_proteins.fasta
+   Expected amino-acid translations for each chimeric coding region.
+
+9. final_three_lock_benchling_import_notes.txt
+   Benchling import, annotation, and recordkeeping instructions.
+
+10. final_three_lock_validation_summary_report.txt
+    Human-readable validation summary and caveats.
